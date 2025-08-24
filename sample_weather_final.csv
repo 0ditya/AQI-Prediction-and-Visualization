@@ -1,0 +1,6 @@
+PM10 (ug/m3),NO (ug/m3),NO2 (ug/m3),NOx (ppb),NH3 (ug/m3),SO2 (ug/m3),CO (mg/m3),Ozone (ug/m3),Benzene (ug/m3),Unnamed: 0,tempmax,tempmin,temp,feelslikemax,feelslikemin,feelslike,humidity,precip,precipprob,precipcover,windspeed,sealevelpressure,conditions_Overcast,conditions_Partially cloudy,"conditions_Rain, Partially cloudy",Year,month,dayofweek,dayofyear,year-2000,weekofyear,tempmax_humidity,tempmin_humidity,temp_humidity,feelslikemax_humidity,feelslikemin_humidity,feelslike_humidity,temp_range,heat_index,PM2.5 (ug/m3)
+150,30,40,70,25,10,0.8,30,3.0,1,35,27,31,37,28,33,40,0.0,10,0,15,1012,0,1,0,2024,4,1,101,24,15,1400,1080,1240,1480,1120,1320,8,36,120
+200,25,45,68,30,12,0.7,28,2.8,2,34,26,30,36,27,32,45,0.2,20,10,12,1010,1,0,0,2024,4,2,102,24,15,1530,1170,1350,1620,1215,1440,8,35,150
+180,40,38,75,20,11,0.9,35,3.5,3,36,28,32,38,29,34,35,0.0,5,0,18,1011,0,1,0,2024,4,3,103,24,15,1260,980,1120,1330,1015,1190,8,37,130
+175,35,50,80,22,13,1.0,40,3.2,4,33,25,29,35,26,31,50,0.5,40,25,10,1008,0,0,1,2024,4,4,104,24,15,1650,1250,1450,1750,1300,1550,8,34,140
+160,20,42,65,28,9,0.85,32,2.9,5,37,29,33,39,30,35,42,0.0,15,0,20,1013,0,0,0,2024,4,5,105,24,15,1554,1218,1386,1638,1260,1470,8,38,125
